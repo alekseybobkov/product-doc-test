@@ -2,5 +2,5 @@
 
 This is the index page.
 
-* [See the Installation page](readme.md)
-* [See the Installation page (simplified syntax)](readme)
+* [See the Installation page](installation.md)
+* [See the Installation page (simplified syntax)](installation)
